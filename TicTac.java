@@ -1,3 +1,6 @@
+// This is a tic-tac-toe game built using javafx. It is for use with two people on the same machine. It does
+// not support playing against in-game AI or online multiplayer.
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
